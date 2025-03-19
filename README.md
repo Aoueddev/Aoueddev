@@ -1,8 +1,12 @@
 # 👨🏻‍💻Aoued Mekki
 
 **`Desenvolvedor FullStack`**
-
-Me chamo Aoued Mekki, tenho 19 anos e sou natural de Salvador. Concluí o ensino médio no colégio Nossa Senhora da Soledade .Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL.
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
+🎓 UCSAL
+🌍 Natural de Salvador 
+ 📚 Concluí o ensino médio no Colégio Nossa Senhora da Soledade
+🚀 Apaixonado por tecnologia, programação e resolução de problemas.
+🔍 Sempre em busca de aprender mais e colaborar em projetos inovadores.
 
 <p align="left">
      <a href="https://www.linkedin.com/in/aoued-mekki-089b27265/">
