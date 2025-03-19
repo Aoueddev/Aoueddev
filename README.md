@@ -1,6 +1,7 @@
 # 👨🏻‍💻Aoued Mekki
 
 **`Desenvolvedor FullStack`**
+<br>
 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
 🎓 UCSAL
 🌍 Natural de Salvador 
